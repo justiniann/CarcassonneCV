@@ -5,4 +5,4 @@ I love the board game Carcassonne, but often find it difficult to determine the 
 ![alt text](dat/example.jpg)
 
 ### Example Output
-![alt text](dat/example-result.jpg)
+![alt text](dat/example-result.png)
