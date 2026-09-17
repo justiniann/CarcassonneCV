@@ -80,4 +80,5 @@ def label_image(img_path, sensitivity=30):
 
 
 if __name__ == '__main__':
+    kjdfkdjfkjdkfjdkfjdkjf
     label_image(os.path.join("..", "dat", "example.jpg"))
